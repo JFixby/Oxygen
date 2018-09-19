@@ -1,0 +1,16 @@
+{
+	"region": "EU",
+	"shitcoinSymbol": "DASH",
+	"orderID": "4666957",
+	"strategy": "MedianSpeed",
+	"targetProfitMinPercentage": 40,
+	"criticalLoadPercentage": 5,
+	"criticalLoadBtcJump": 0.0001,
+	"targetProfitMinWindowSizePercentage": 10,
+	"slowSpeed": "1 Th/s",
+	"turboSpeed": "24 Th/s",
+	"breathingPeriod": 30000,
+	"checkPeriod": 60000,
+	"takeActionPeriod": 60000,
+	"niceHashKeyFileName": "nice-hash"
+}

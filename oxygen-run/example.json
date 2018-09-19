@@ -1,0 +1,14 @@
+{
+  "region": "US",
+  "algo": "DECRED",
+  "orderID": "44",
+  "targetPercentageMin": 13.25,
+  "targetPercentageMax": 17.0,
+  "targetPercentageParameter": 0.3,
+  "slowSpeed": 1.0,
+  "turboSpeed": 10.0,
+  "breathingPeriod": 5000,
+  "checkPeriod": 300000,
+  "takeActionPeriod": 300000,
+  "niceHashKeyFileName": "nice-hash"
+}

@@ -1,0 +1,12 @@
+{
+	"targetPercentageMin": 15,
+	"targetPercentageMax": 16,
+	"targetPercentageParameter": 0.3,
+	"checkPeriod": 40000,
+	"takeActionPeriod": 120000,
+	"niceHashKeyFileName": "nice-hash",
+	"algo": "DECRED",
+	"breathingPeriod": 10000,
+	"slowSpeed": 1.0,
+	"turboSpeed": 16.0
+}

@@ -1,0 +1,16 @@
+{
+	"region": "EU",
+	"algo": "DECRED",
+	"orderID": "4361505",
+	"strategy": "MedianSpeed",
+	"targetProfitMinPercentage": 23,
+	"criticalLoadPercentage": 50,
+	"criticalLoadBtcJump": 0.0001,
+	"targetProfitMinWindowSizePercentage": 0.4,
+	"slowSpeed": 1,
+	"turboSpeed": 1,
+	"breathingPeriod": 30000,
+	"checkPeriod": 60000,
+	"takeActionPeriod": 60000,
+	"niceHashKeyFileName": "nice-hash"
+}

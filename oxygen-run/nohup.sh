@@ -1,0 +1,1 @@
+nohup sh run_manager.sh "$1.json" > "$1.$2.log" &

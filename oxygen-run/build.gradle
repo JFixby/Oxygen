@@ -1,0 +1,7 @@
+dependencies {
+
+    compile project(":oxygen-manager")
+    
+    compile "com.github.Scarabei.Scarabei:scarabei-aws-desktop:$scarabeiVersion"
+    compile "com.github.Scarabei.Scarabei:scarabei-red-desktop:$scarabeiVersion"
+}

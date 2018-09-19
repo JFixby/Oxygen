@@ -1,0 +1,16 @@
+{
+	"region": "EU",
+	"shitcoinSymbol": "VTC",
+	"orderID": "4620445",
+	"strategy": "MedianSpeed",
+	"targetProfitMinPercentage": 20,
+	"criticalLoadPercentage": 5,
+	"criticalLoadBtcJump": 0.0001,
+	"targetProfitMinWindowSizePercentage": 5,
+	"slowSpeed": "40 Gh/s",
+	"turboSpeed": "80 Gh/s",
+	"breathingPeriod": 30000,
+	"checkPeriod": 60000,
+	"takeActionPeriod": 60000,
+	"niceHashKeyFileName": "nice-hash"
+}

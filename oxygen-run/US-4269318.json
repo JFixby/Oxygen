@@ -1,0 +1,14 @@
+{
+	"orderID": "4269318",
+	"region": "US",
+	"targetPercentageMin": 20,
+	"targetPercentageMax": 21,
+	"targetPercentageParameter": 0.0,
+	"checkPeriod": 40000,
+	"takeActionPeriod": 240000,
+	"niceHashKeyFileName": "nice-hash",
+	"algo": "DECRED",
+	"breathingPeriod": 10000,
+	"slowSpeed": 0.02,
+	"turboSpeed": 16.0
+}

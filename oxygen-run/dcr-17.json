@@ -1,0 +1,16 @@
+{
+	"region": "EU",
+	"shitcoinSymbol": "DCR",
+	"orderID": "4702211",
+	"strategy": "MedianSpeed",
+	"targetProfitMinPercentage": 22,
+	"criticalLoadPercentage": 50,
+	"criticalLoadBtcJump": 0.0001,
+	"targetProfitMinWindowSizePercentage": 5,
+	"slowSpeed": "0.02 Th/s",
+	"turboSpeed": "6 Th/s",
+	"breathingPeriod": 15000,
+	"checkPeriod": 30000,
+	"takeActionPeriod": 60000,
+	"niceHashKeyFileName": "nice-hash"
+}

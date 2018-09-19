@@ -1,0 +1,14 @@
+{
+	"region": "EU",
+	"algo": "DECRED",
+	"orderID": "4269337",
+	"strategy": "MedianSpeed",
+	"targetProfitMinPercentage": 16,
+	"targetProfitMinWindowSizePercentage": 0.4,
+	"slowSpeed": 1,
+	"turboSpeed": 4,
+	"breathingPeriod": 30000,
+	"checkPeriod": 60000,
+	"takeActionPeriod": 120000,
+	"niceHashKeyFileName": "nice-hash"
+}

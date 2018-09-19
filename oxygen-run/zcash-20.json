@@ -1,0 +1,16 @@
+{
+	"region": "EU",
+	"shitcoinSymbol": "ZEC",
+	"orderID": "4688771",
+	"strategy": "MedianSpeed",
+	"targetProfitMinPercentage": 20,
+	"criticalLoadPercentage": 5,
+	"criticalLoadBtcJump": 0.0001,
+	"targetProfitMinWindowSizePercentage": 10,
+	"slowSpeed": "0.01 MHh/s",
+	"turboSpeed": "6 MHh/s",
+	"breathingPeriod": 30000,
+	"checkPeriod": 60000,
+	"takeActionPeriod": 60000,
+	"niceHashKeyFileName": "nice-hash"
+}

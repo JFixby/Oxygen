@@ -1,0 +1,17 @@
+{
+	"region": "EU",
+	"algo": "DECRED",
+	"shitcoinSymbol": "DCR",
+	"orderID": "4502238",
+	"strategy": "MedianSpeed",
+	"targetProfitMinPercentage": 22,
+	"criticalLoadPercentage": 5,
+	"criticalLoadBtcJump": 0.0001,
+	"targetProfitMinWindowSizePercentage": 0.4,
+	"slowSpeed": "8.88 Th/s",
+	"turboSpeed": "9.44 Th/s",
+	"breathingPeriod": 30000,
+	"checkPeriod": 60000,
+	"takeActionPeriod": 60000,
+	"niceHashKeyFileName": "nice-hash"
+}
